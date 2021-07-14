@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    width: 400px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: center;
+    vertical-align: middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_img {
+    width: 620px;
+    height: 435px;
+    margin-top: auto;
+    margin-left: 10px;
+    background-image: url(https://doppiaggiitalioti.com/wp-content/uploads/2019/04/Deadpool-sorpreso-650x433.jpg);
+}
